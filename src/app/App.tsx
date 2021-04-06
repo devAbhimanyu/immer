@@ -1,7 +1,8 @@
 import './App.css';
+import { GiftList } from 'components';
 
 function App() {
-  return <div className='App'>Base</div>;
+  return <GiftList />;
 }
 
 export default App;
